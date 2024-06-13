@@ -1,0 +1,52 @@
+[
+    {
+        "username": "user_doctor1",
+        "password": "doctor1",
+        "occupation": "doctor"
+    },
+    {
+        "username": "user_nurse1",
+        "password": "nurse1",
+        "occupation": "nurse"
+    },
+    {
+        "username": "user_nurse2",
+        "password": "nurse2",
+        "occupation": "nurse"
+    },
+    {
+        "username": "user_doctor2",
+        "password": "doctor2",
+        "occupation": "doctor"
+    },
+    {
+        "username": "user_doctor3",
+        "password": "doctor3",
+        "occupation": "doctor"
+    },
+    {
+        "username": "user_nurse3",
+        "password": "nurse3",
+        "occupation": "nurse"
+    },
+    {
+        "username": "user_doctor4",
+        "password": "doctor4",
+        "occupation": "doctor"
+    },
+    {
+        "username": "user_doctor5",
+        "password": "doctor5",
+        "occupation": "doctor"
+    },
+    {
+        "username": "user_doctor6",
+        "password": "doctor6",
+        "occupation": "doctor"
+    },
+    {
+        "username": "user_nurse4",
+        "password": "nurse4",
+        "occupation": "nurse"
+    }
+]
